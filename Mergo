@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trendige Produkte – Deine Affiliate-Webseite</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; background-color: #f4f4f4; }
+        h1 { color: #333; }
+        .product-container { display: flex; flex-wrap: wrap; justify-content: center; }
+        .product { background: white; padding: 15px; margin: 10px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); }
+        img { width: 200px; height: auto; border-radius: 10px; }
+        a { display: block; margin-top: 10px; text-decoration: none; color: white; background: #28a745; padding: 10px; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Top-Trend-Produkte</h1>
+    <div class="product-container">
+        <div class="product">
+            <img src="https://via.placeholder.com/200" alt="Produkt 1">
+            <h2>Stylische Smartwatch</h2>
+            <p>Die beste Smartwatch für Fitness & Alltag.</p>
+            <a href="#" target="_blank">Jetzt kaufen</a>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/200" alt="Produkt 2">
+            <h2>Kompakte Powerbank</h2>
+            <p>Immer genug Akku für unterwegs.</p>
+            <a href="#" target="_blank">Jetzt kaufen</a>
+        </div>
+        <div class="product">
+            <img src="https://via.placeholder.com/200" alt="Produkt 3">
+            <h2>Bequeme Sneaker</h2>
+            <p>Top-Komfort und modernes Design.</p>
+            <a href="#" target="_blank">Jetzt kaufen</a>
+        </div>
+    </div>
+</body>
+</html>
